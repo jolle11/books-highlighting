@@ -1,0 +1,161 @@
+LA REALIDAD NO EXISTE
+PRIMERA PARTE. TODO ES MENTIRA
+3 - DONDE HAY PATRÓN NO SIEMPRE MANDA LA RAZÓN
+SOMOS MÁQUINAS DE BUSCAR PATRONES
+p.60 - A la habilidad que tenemos para reconocer caras y formas de todo tipo en composiciones aleatorias se le llama pareidolia y es una de las infinitas maneras en las que se manifiesta uno de nuestros grandes superpoderes como especie: nuestra facilidad para encontrar patrones.
+---
+p.62 - Al proceso por el que las palomas asociaban hacer algo con una consecuencia, Skinner lo llamó condicionamiento operante y es una de las bases fundamentales d nuestro comportamiento. En nuestra eterna búsqueda de patrones, aunque lo que hagamos y la consecuencia no tengan relación, nosotros se la damos. Así nacen las supersticiones, por ejemplo. Si un día te da por cruzar los dedos antes de cada tirada de la ruleta y da la causalidad de que ese día ganas más veces de las que pierdes, ya la hemos liado. Igual que las palomas.
+---
+4 - ATAJOS ERRÓNEOS Y EMOCIONES EMBUSTERAS
+p.71 - Frente al Homo economicus, Simon propuso un Homo administrativus, incapaz de captar la complejudad del mundo y la interrelación entre sus elementos. Este modelo de racionalidad limitada afirma que, ante esa incapacidad, los seres humanos usamos reglas generales y sencillas, atajos, para retomar decisiones, especialmente en situaciones de incertidumbre o cuando no tenemos tiempo para analizar. Esos atajos reciben el nombre de heurísticos. Igual que nuestras reacciones al estrés o nuestra capacidad para detectar patrones, los heurísticos son mecanismos que nos resultan útiles en multitud de ocasiones, pero que a veces se vuelven contra nosotros.
+---
+SESGOS COGNITIVOS
+p.72 - Pero que algo sea útil no significa que sea perfecto. De hecho, los heurísticos están íntimamente ligados a otro concepto fundamental para entender las trampas que nos hacemos al percibir la realidad: los sesgos cognitivos. Los sesgos cognitivos son errores sistemáticos, es decir, errores que solemos cometer de manera constante y de forma casi predecible. La mayoría de esos sesgos son en realidad ≪la cara B≫ de nuestros heurísticos: atajos habitualmente útiles que en determinadas circunstancias nos inducen al error. Igual que sucedía con el estrés, cuya utilidad para afrontar peligros se vuelve contra nosotros en el mundo moderno, el mismo superpoder que nos permite decidir en milésimas de segundo ante una amenaza nos puede llevar a decisiones erróneas en otros contextos.
+---
+EL PAPEL DE NUESTRAS EMOCIONES
+p.77 - Las emociones que sentimos ante una decisión desempeñan cuatro papeles fundamentales: proporcionarnos información (cuando una opción nos genera más rechazo que otra, por ejemplo), mejorar la velocidad de decisión (cuando nos empujan el hambre, el miedo o la ira), valorar la relevancia de cada opción (a partir del arrepentimiento o la decepción que vivimos en situaciones parecidas en el pasado) y aumentar nuestro compromiso con decisiones que priorizan el bien común sobre el propio (cuando el amor o la culpa nos llevan a actuar de manera altruista).
+---
+p.81 - La próxima vez que tengas que tomar una decisión importante pregúntate si eres tú quien la toma o si son las prisas o las emociones quienes lo hacen por ti.
+---
+5 - LA JAULA DE NUESTRAS CREENCIAS
+YA SABÍA YO QUE TENÍA RAZÓN
+p.87 - Un último factor que debemos tener en cuenta sobre nuestra tendencia a confirmar lo que ya creemos es que, a la hora de recordar, nuestra manera de recuperar información está también sesgada. Seguramente hayas oído en alguna ocasión el término memoria selectiva. Suele hablarse así de nuestra tendencia a favorecer unos recuerdos por encima de otros.
+---
+LIDIANDO CON NUESTRAS INCOHERENCIAS
+p.89 - Una de mis explicaciones favoritas sobre la naturaleza humana proviene de Robert Heinlein: ≪El ser humano no es un ser racional. Es un ser racionalizador≫.
+---
+DECISIONES Y DISONANCIA, UNA MALA MEZCLA
+p.94 - Otro ejemplo seria el del sesgo de coste hundido. Cuanto más hayamos invertido en algo, o cuanto más de nuestra personalidad o nuestra forma de ser esté basado en una creencia (como el grupo de seguidores de Dorothy Martin), más nos aferraremos a esa idea frente a las evidencias que la contradigan.
+...
+Por eso, si vas a tomar una decisión importante, suele ser buena idea no consultarlo con alguien que acaba de hacer lo mismo, porque no va a ser objetivo.
+---
+LAS MENTIRAS DE NUESTRA MEMORIA
+p.98 - La disonancia cognitiva tiene tal poder que es capaz de hacernos recordar cosas que jamás sucedieron.
+---
+6 - EL MUNDO QUE IGNORAMOS
+EL DESCONOCIMIENTO DESCONOCIDO
+p.108 - Joseph Luft y Harrington Ingham crearon la ventana de Johari para explicar la relación que tenemos con nosotros mismos y con otros.
+Básicamente podemos imaginar que cada uno de nosotros somos un edificio con cuatro habitaciones. La primera de ellas está abierta a todo el mundo; es nuestro yo público, aquello que sabemos de nosotros y que otros también pueden conocer. La segunda habitación está oculta, es todo aquello que sabemos de nosotros mismos pero que escondemos al resto; nuestro yo privado. La tercera es la habitación desconocida y contiene todo lo que ni nosotros ni nadie más sabe de nosotros mismos; es nuestro yo desconocido. Y la última habitación es aquello que los demás saben de nosotros, pero que nosotros desconocemos o no queremos reconocer; son nuestros puntos ciegos.
+---
+8 - MENTIRAS COLECTIVAS
+LA ENGAÑOSA OPINIÓN PÚBLICA
+Nuestra percepción de cómo de seguro es dar nuestro punto de vista se construye a partir de pistas que vamos captando consciente o inconscientemente sobre lo que todos los demás opinan.
+...
+Como animales sociales que somos, por lógica, tendemos a evitar cualquier cosa que pueda significar que nuestro grupo nos rechace.
+---
+LA DELGADA LÍNEA QUE SEPARA LAS NOTICIAS DE LA PROPAGANDA
+p.146 - Buscar en los medios de comunicación la realidad es como tratar de aprender anatomía con un Picasso
+---
+EL MUNDO NO ES LO QUE TE MUESTRA TU RED SOCIAL
+p.152 - Teoria del control reflexivo:
+	- Distracción: crear amenazas reales o imaginarias para forzar al enemigo a replantearse sus decisiones.
+	- Sobreinformación: enviar de forma ininterrumpida información contradictoria.
+	- Agotamiento: forzar al adversario a realizar continuamente tareas inútiles.
+	- División: convencer al enemigo para que opere en contra de los intereses de sus aliados.
+	- Sugestión: usar la información para afectar las leyes, la moral o la ideología del enemigo.
+	- Presión: difundir información que desacredite al gobierno frente a sus ciudadanos.
+---
+9 - LOS LÍMITES DE NUESTRO CONOCIMIENTO
+p.168 - Nuestros modelos son erróneos porque ninguno puede captar al completo la realidad.
+---
+SEGUNDA PARTE. CÓMO ENTENDER EL MUNDO CUANDO ENTIENDES QUE NO ENTIENDES NADA
+11 - DRAGONES INVISIBLES, ESPAGUETIS VOLADORES Y LA IMPORTANCIA DE HABLAR BIEN (PENSAMIENTO CRÍTICO)
+p.189 - El efecto Forer, también conocido como falacia de validación personal, que es algo tan sencillo y tan poderoso a la vez como que tendemos a dar por buenas afirmaciones sobre nosotros que parecen hechas a nuestra medida, aunque sean tan genéricas que en realidad servirían para cualquiera.
+...
+Es lo que los psicólogos llaman sesgo egocéntrico.
+---
+AQUÍ COMIENZA EL INFINITO
+p.192 - Hay numerosísimas definiciones del pensamiento crítico, pero nos vamos a limitar a una muy sencilla: es el que se ejerce de manera disciplinada y racional, con una  mente abierta y basada en la evidencia.
+---
+HABLAR BIEN PARA PENSAR MEJOR
+p.198 - Entender la realidad es mucho más difícil cuando los demás se empeñan en que no los entendamos, ya sea con falacias o simplemente con el uso que nacen del lenguaje.
+---
+UN KIT ANTICAMELOS PARA EL SIGLO XXI
+p.202 - Cinco claves para desarrollar tu pensamiento crítico
+	1. Pregunta como un niño
+	2.  ¿Hay más explicaciones posibles?
+		p. - ≪Navaja de Ockam≫: ante dos hipótesis igualmente buenas --es decir, dos que no hemos logrado refutar-- la más sencilla es la que más probabilidad tiene de ser correcta.
+	3. Cuestiona las pruebas
+	4. Busca fallos en el razonamiento
+	5. Distingue entre posibilidad y probabilidad
+---
+LA TÉCNICA FEYNMAN
+p.209 - El propio Richard Feynman dio un famoso discurso en 1974 del que salió una frase que le ha acompañado siempre: ≪El primer principio es que no debes engañarte a ti mismo... y eres la persona más fácil de engañar≫.
+En aquel momento él se refería a la integridad que deben tener los científicos pero en realidad es aplicable a cualquiera de nosotros. Porque de él surgió lo que se conoce como la técnica Feynman, un proceso muy sencillo para asegurarte de entender realmente cualquier cosa. Sólo tiene cuatro pasos:
+	1. Enséñaselo a un niño: agarra una hoja de papel y escribe lo que sepas sobre el tema. Y hazlo pensando que se lo estás explicando a un niño. No a un adulto superlisto --ni medio listo--, a un niño de 8 años, que tiene un vocabulario y una capacidad de atención limitados. Al hacerlo, te fuerzas a profundizar en el concepto y a simplificar la relación y las conexiones entre las ideas.
+	2. Repasa: al terminar el paso anterior, habrás identificado partes en las que se te olvida algo importante, no eres realmente capaz de explicarlo o te cuesta relacionarlo con un concepto importante. Aquellos puntos donde más te cuesta este ejercicio es precisamente donde tienes lagunas en tu conocimiento, has encontrado tus límites. Y aquí toca volver a superar estos límites,
+	3. Refina tu explicación: una vez que lo hayas repasado, utiliza tu nuevo conocimiento y adapta tu explicación. Y repite este ciclo, estos tres pasos, una y otra vez. Hasta que seas capaz de explicárselo a un niño de 8 años.
+	4. Transmite tu conocimiento: este paso en realidad es opcional, pero es muy poderoso. Una vez que alcances una explicación satisfactoria, cuéntaselo a alguien. Poner tu explicación a prueba así es la única forma de encontrar el resto de las lagunas en nuestro conocimiento: las de aquello que no sabemos que no sabemos.
+---
+12 - SOBREVIVIENDO A LAS ESTADÍSTICAS (PENSAMIENTO NUMÉRICO)
+LOS INSTINTOS DE ROSLING
+p.216 - Por eso describió diez instintos (en el fondo nosotros podríamos llamarlos sesgos) que nos llevan a distorsionar nuestra percepción de la realidad y cómo sobreponernos a ellos a través de las estadísticas y de los números.
+	1. Instinto de separación: como veremos en los siguientes capítulos, tendemos a dividirlo todo en dos grupos extremos, cuando la realidad suele estar mucho más matizada y la mayoría suele estar en el medio.
+	2. Instinto de negatividad: damos más importancia a lo malo que a lo bueno. Nos importan más los males presentes que la mejora lenta y gradual del pasado. Un asesinato es notícia, pero no lo es que la esperanza de vida se haya multiplicado por más de dos en doscientos años.
+	3. Instinto de la línea recta: ya sea con la Bolsa o la población mundial, asumimos que las tendencias se mantendrán similares a lo que vivimos ahora. Pero la realidad es que puede evolucionar de formas muy distintas, tal vez explotando y creciendo rápidamente o cambiando de tendencia.
+	4. Instinto del miedo: a pesar de que es mucho más probable morir en un accidente de coche que en uno de avión, mucha gente tiene más miedo a volar que a viajar en coche. Sobreestimamos el riesgo de aquello que nos asusta.
+	5. Instinto del tamaño: tendemos a ver las cosas de manera desproporcionada (por ejemplo, cuántos inmigrantes viven en nuestro país).
+	6. Instinto de generalización: agrupamos cosas o personas que son muy diferentes. Tendemos a pensar que las culturas asiáticas son todas iguales, cuando son radicalmente distintas entre sí.
+	7. Instinto del destino: asumimos que algo es constante porque varía muy lentamente. Alejarnos y tomar perspectiva nos permite percibir y analizar los cambios más lentos.
+	8. Instinto de perspectiva única: tendemos a creer que hay una sola solución o causa para un problema y construimos nuestra imagen del mundo desde nuestra perspectiva sin tener en cuenta la de otros.
+	9. Instinto de culpa: nuestra tendencia a buscar una razón simple y clara que explique por qué ha sucedido algo malo. Cuando, como veremos en el capítulo 15, las razones detrás de muchos de los problemas que nos rodean son muy enrevesadas.
+	10. Instinto de urgencia: la tendencia que tenemos a actuar de forma inmediata, amplificando nuestros otros instintos y sin dejar tiempo para la reflexión.
+---
+DATOS SESGADOS: SUPERVIVIENTES, ERECCIONES Y ALGORITMOS
+p.218 - Sesgo de supervivencia, en el que incurrimos cuando nos fijamos o utilizamos datos que sólo representan una parte de la realidad. Aquella que ha superado algún tipo de proceso de selección.
+...
+Buscamos constantemente los consejos de las grandes figuras empresariales o deportivas, intentando aprender su secreto para lograr el éxito. Pero nunca nos planteamos cuántas personas siguieron sus mismos pasos y fracasaron.
+---
+ENFRÉNTATE A LAS ESTADÍSTICAS SIN MORIR EN EL INTENTO
+p.225 - De forma intencionada o no, las estadísticas pueden mostrar verdades parciales.
+---
+p.226 - Hay cifras que parecen enormes, pero que en el contexto apropiado resultan ser una gota en un océano.
+---
+13 - DE LOS MONTONCITOS DE ARENA A LAS MONTAÑAS (PENSAMIENTO GRIS)
+UN MUNDO EN BLANCO Y NEGRO
+p.234 - Esta forma de pensar es lo que algunos autores llaman pensamiento en blanco y negro.
+No es casualidad que muchos de los anteriores ejemplos tengan tintes políticos. El pensamiento en blanco y negro nos hace más susceptibles a ser persuadidos o manipulados. Según Kevin Dutton, hay tres supercategorías binarias a las que somos especialmente reactivos. La primera es ≪huir o luchar≫, es decir, lo que nos permite distinguir si lo que tenemos delante es una amenaza o no, como aquella serpiente bajo la piedra. La segunda es ≪ellos y nosotros≫, que nos permite diferenciar quién pertenece a nuestro grupo y quién no. Y la tercera es la de ≪el bien y el mal≫, que articula nuestros sistemas morales. Las personas más persuasivas utilizan las tres para convencernos de sus argumentos y suelen estructurar sus mensajes de manera que 1) nos hagan querer luchar por una causa, 2) apelen a nuestro sentido de la identidad y 3) nos hagan sentir que apoyarlos es lo correcto.
+Por otro lado, el pensamiento en blanco y negro puede manifestarse de forma más extrema y convertirse en algo limitante y problemático para nuestro día a día. Sería lo que los psicólogos llaman pensamiento polarizado o dictómico, una forma distorsionada de ver la realidad en la que sólo admitimos los extremos. Por ejemplo, cuando creemos que si a una persona no le gusta nuestro trabajo es que no le va a gustar a nadie o que es directamente una basura. O que si hemos fracasado tratando de resolver un problema que nos afecta, entonces no tiene solución. O todo o nada. Bueno o malo> Sin término medio.
+---
+50 SOMBRAS DE GRIS
+p.236 - Si el anterior era pensamiento en blanco y negro, este tiene un nombre bastante autodescriptivo: pensamiento gris. Es una forma de pensar en la que intentamos graduar la realidad en lugar de categorizarla. Las cosas, en lugar de ser blancas o negras, tienen algún tono de gris.
+---
+14 - SOBRE EL AZAR, LA SUERTE Y LAS CABRAS (PENSAMIENTO PROBABILÍSTICO)
+LA VIDA ES PÓKER, NO AJEDREZ
+p.251 - Cuando tomamos decisiones lo hacemos a partir de lo que sabemos del pasado y lo que creemos que sucederá en el futuro.
+p.252 - Dicho de otra manera: el presente es ese momento fugaz que sucede entre la estadística y la probabilidad.
+p.271 - Podemos hablar de cuatro tipos de suerte: la suerte ciega, en la que no tenemos ninguna influencia; la suerte entrópica, en la que nuestra influencia se limita a generar muchas oportunidades de que aparezca; la suerte descubierta, que se relaciona con el trabajo y nuestra experiencia, y la suerte construida, que resulta de nuestra reputación y diferenciación.
+---
+15 - CUANDO TODO SE CONECTA CON TODO (PENSAMIENTO SISTÉMICO)
+PREPARA TU MENTE PARA PENSAR EN SISTEMAS
+p.288 - En resumen, el pensamiento sistémico implica, por lo tanto, cambiar nuestra forma de pensar:
+	1. De lo desconectado a lo conectado: entender que todo puede estar conectado con todo.
+	2. Del análisis a la síntesis: de reducir los problemas a piezas más pequeñas a considerar a la vez el todo y las partes.
+	3. De los silos a la emergencia: comprender que el comportamiento del sistema no se explica a partir de los comportamientos de sus piezas, sino de la combinación de todas ellas.
+	4. De lo lineal a lo circular: identificar no sólo las piezas y sus conexiones, sino los bucles que se generan en el sistema.
+	5. De la causalidad a la influencia: comprender que las relaciones causa-efecto no son evidentes y que solemos tener que generar hipótesis, hacer experimentos y tratar de entender las conexiones y bucles internos a partir de los resultados.
+---
+16 - EL CAMINO DEL ETERNO APRENDIZ (PENSAMIENTO LIMINAL, POLIMATÍA Y APRENDIZAJE CONTINUO)
+TRES COSAS QUE APRENDÍ DE LOS HACKERS
+p.299 - Hay tres enseñanzas de las que aprendí entonces que me parecen más fundamentales que nunca: ser eternos novatos, tener fe en que podemos aprender cualquier cosa y saber que como más se aprende es haciendo.
+---
+VIVIENDO EN LAS FRONTERAS
+Nueve prácticas con las que desarrollar nuestro pensamiento liminal:
+	1. Práctica 1: asume que no eres objetivo
+	2. Práctica 2: vacía tu taza
+	3. Práctica 3: crea espacios seguros
+	4. Práctica 4: triangula y valida
+	5. Práctica 5: preguntas y conexiones
+	6. Práctica 6: rompe con tu rutina
+	7. Práctica 7: actúa como si fuera verdad
+	8. Práctica 8: construye significado a través de historias
+	9. Práctica 9: evoluciona
+---
+CAMBIA TU FORMA DE BUSCAR SOLUCIONES
+Para finalizar este capítulo vamos a profundizar sobre la importancia de romper con nuestras rutinas de pensamiento. El psicólogo y escritor Giorgio Nardone, sugiere tres técnicas que son especialmente efectivas para pensar de forma diferente sobre un problema y que te propongo que pruebes la próxima vez que te enfrentes a un problema complejo:
+	- La primera es la técnica de cómo empeorar y es una buena idea muy similar a la de inversión, que vimos en este capítulo. La clave, como su nombre indica, está en preguntarse: ≪Si quisiera empeorar aún más las cosas, ¿qué tendría que hacer?≫ o ≪¿cómo podría hacer fracasar este proyecto?≫.
+	- La segunda es la que se conoce como la técnica del escalador. Para llegar a una cima, los escaladores más expertos suelen fijarse en ella y trazar la ruta a la inversa. De forma parecida, podemos buscar soluciones a los problemas a los que nos enfrentamos partiendo del objetivo final e imaginando el paso anterior; y después el anterior a este y así sucesivamente hasta llegar a nuestra situación actual.
+	- La tercera es la técnica del escenario ideal más allá del problema, que consiste en preguntarse cómo serian las cosas una vez que hubiéramos alcanzado nuestro objetivo mediante la solución que hemos identificado. Tal vez así descubramos que se generan nuevos problemas, que quizá la solución no es la idónea o que, a lo mejor, hemos pasado por alto detalles importantes del problema a la hora de plantearla.
+
+
+≪≫
