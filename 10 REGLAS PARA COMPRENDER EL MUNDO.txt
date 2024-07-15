@@ -1,0 +1,112 @@
+10 REGLAS PARA COMPRENDER EL MUNDO
+INTRODUCCIÓN - CÓMO MENTIR CON ESTADÍSTICAS
+p.23 - Y resulta que la duda es un producto muy fácil de fabricar.
+...
+Además, la duda es fácil de vender porque forma parte del proceso de exploración y debate científico.
+...
+Robert Proctor, un historiador que durante décadas se ha dedicado a estudiar la industria tabaquera, describe la política moderna como la ≪edad de oro de la ignorancia≫.
+---
+p.25 - Me preocupa un mundo en el que mucha gente crea cualquier cosa, pero me preocupa mucho más un mundo en el que no creamos en nada más que en nuestros propios prejuicios.
+---
+PRIMERA REGLA - EXAMINA TUS SENTIMIENTOS
+p.34 - Cuanto más extrema es la reacción emocional, más difícil es pensar con claridad.
+---
+p.42 - La ciencia social moderna está de acuerdo con Molière y Franklin: quienes tienen más conocimientos están mejor preparados para detectar los engaños, pero si caen en la trampa del razonamiento motivado son capaces de aducir más razones para creer en cualquier cosa que quieran creer.
+---
+p.45 - Si la duda es el arma, los detalles son la munición.
+---
+p.52 - Los persuasores de hoy no quieren que nos paremos a pensar. Quieren estresarte y hacerte sentir. No tengas prisa.
+---
+p.55 - Cuando nos topamos con una afirmación estadística sobre la realidad, y pensamos en compartirla en las redes sociales o en escribir una refutación brutal, deberíamos preguntarnos: ≪¿Cómo hace que me sienta?≫.
+Y también puede valer la pena continuar con otra pregunta: ≪¿Por qué hace que me sienta así?≫
+---
+SEGUNDA REGLA - SOPESA LA EXPERIENCIA PERSONAL
+p.64 - Los psicólogos tienen un nombre para esa tendencia que nos lleva a confundir nuestra perspectiva con algo más universal: se llama ≪realismo ingenuo≫, la sensación de que estamos viendo la realidad tal y como es, sin filtros ni errores.
+---
+p.65 - El realismo ingenuo es una ilusión poderosa.
+---
+p.66 - ≪Cuando no encontramos pronto una respuesta satisfactoria a una pregunta difícil, encontramos una pregunta relacionada más fácil y la respondemos≫.
+...
+Las ≪respuestas lentas≫, aquellas que se basan en una comprensión reflexiva de información sin sesgos, son las que suelen apelar a nuestra mente.
+---
+p.72. No hay una respuesta fácil para equilibrar la vista de pájaro con la vista de gusano, entre la información amplia, rigurosa, pero seca, que nos dan las cifras, y las lecciones ricas pero paradójicas de la experiencia personal. Tenemos que recordarnos de continuo qué estamos, aprendiendo y qué podemos estar pasando por alto. En las estadísticas, como en cualquier otra disciplina, la lógica pura y las impresiones personales son más efectivas cuando se refuerzan y se corrigen mutuamente. Lo ideal es encontrar encontrar la mejor forma de combinarlas.
+---
+p.73 - Muchas de las diferencias que creemos culturales son, de hecho, diferencias de ingresos.
+---
+TERCERA REGLA - EVITA LA ENUMERACIÓN PREMATURA
+p.77 - Con frecuencia, cuando se busca una explicación, en realidad se busca a alguien a quien culpar.
+---
+p.78 - Cuando intentemos comprender una afirmación estadística -cualquier afirmación estadística-, debemos comenzar por preguntarnos qué significa realmente.
+---
+p.95 - La solución es la siguiente: pregunta qué es lo que se está contando, qué historias hay detrás de las estadísticas.
+---
+CUARTA REGLA - TOMA DISTANCIA Y DISFRUTA DE LAS VISTAS
+p.99 - En 1965, dos sociólogos noruegos, Johan Galtung y Mari Ruge, hicieron una observación fascinante: lo que cuenta como ≪noticias≫ depende mucho de la frecuencia con la que prestamos atención.
+---
+p.106 - Algunos críticos de los medios creen que hay otra razón para que los medios no enfaticen el contexto y la perspectiva: a la gente le atraen las malas noticias.
+...
+≪instinto de la negatividad≫. Y suele ser más fácil que las noticias parezcan malas si se omite el contexto.
+---
+p.107 - Por descontado, las noticias chocantes pueden ser positivas. Pero el psicólogo Steven Pinker afirma que las buenas noticias suelen llegar poco a poco, mientras que las malas son repentinas. Parece que es así; al fin y al cabo, es más rápido destruir algo que construirlo.
+---
+p-108 - De modo que cuando los medios quieren atraer nuestra atención buscan noticias que son nuevas e inesperadas en un marco temporal breve, y es más probable que estas noticias sean malas, no buenas.
+---
+p.112 - Una pregunta a la que hoy solo se puede responder con una opinión informada, quizá mañana se pueda responder con hechos
+---
+QUINTA REGLA - COMPRENDE LA HISTORIA DE FONDO
+p.129 - Lo que parecen unas decisiones sencillas se pueden convertir muy rápido en un laberinto de diferentes posibilidades.
+---
+p.133 - El filtro de lo ≪interesante≫ es poderosísimo.
+---
+p.140 - ≪En general, desmentir afirmaciones falsas provoca que las creencias de la gente sean más rigurosas≫.
+---
+SEXTA REGLA - PREGUNTA QUÉ FALTA
+SÉPTIMA REGLA - EXIGE TRANSPARENCIA CUANDO EL ORDENADOR DICE ≪NO≫
+p.192 - Onora O'Neil argumenta que, si queremos garantizar la confianza, es necesario que la base de nuestras decisiones sea ≪inteligentemente abierta≫. Propone una lista de verificación de cuatro propiedades que deberían tener las decisiones inteligentemente abiertas.
+La información tiene que ser accesible: esto implica que no debe estar oculta en un secreto cofre de datos.
+Las decisiones tienen que ser comprensibles: se deben poder explicar de manera clara y con un lenguaje sencillo.
+La información tiene que ser utilizable: algo tan sencillo como que los datos estén disponibles en un formato digital estándar.
+Y las decisiones deben ser valorables: cualquiera con tiempo y experiencia tiene los detalles necesarios para evaluar rigurosamente cualquier afirmación o decisión.
+---
+OCTAVA REGLA - NO DES POR SENTADA LA BASE ESTADÍSTICA
+NOVENA REGLA - RECUERDA QUE LA DESINFORMACIÓN TAMBIÉN PUEDE SER BELLA
+p.252 - Cuando observes visualizaciones de datos, te irá mucho mejor si tienes en cuenta que es posible que alguien quiera convencerte de algo.
+---
+DÉCIMA REGLA - MANTÉN LA MENTE ABIERTA
+p.260 - El cerebro siempre trata de darle sentido al mundo que lo rodea basándose en información incompleta. Hace predicciones sobre lo que cabe esperar, y suele rellenar los huecos a partir de datos llamativamente escasos.
+---
+p.262 - Una de las razones por las que los hechos no siempre nos hacen cambiar de opinión es que estamos muy dispuestos a evitar verdades incómodas.
+---
+p.268 - La importancia de la tasa base se hizo famosa gracias al psicólogo Daniel Kahneman, que acuño la expresión ≪la visión desde dentro y la visión desde fuera≫. La visión desde dentro significa mirar un caso específico que tenemos delante (la pareja de novios). La visión desde fuera supone mirar una serie de casos ≪comparables≫ (todas las parejas casadas). (La visión desde fuera no siempre tiene que ser estadística, pero con frecuencia lo es.)
+...
+En un  mundo ideal, quien toma decisiones o hace predicciones combina la visión externa con la interna, o, de manera análoga, la estadística y la experiencia personal.
+...
+En segundo lugar, llevar un registro es importante.
+...
+En tercer lugar, los superpronosticadores solían actualizar sus predicciones a medida que aparecía nueva información, lo cual sugiere que la receptividad a nuevas pruebas es importante.
+...
+Lo cual nos lleva al cuarto elemento, quizá el más crucial: los superpronosticadores son personas con una mente abierta. Son lo que los psicólogos llaman ≪pensadores activos de mente abierta≫: personas que no se aferran demasiado a una sola opinión, que están cómodas abandonando una posición si hay nuevas pruebas o argumentos, y que aceptan los desacuerdos con los demás como una oportunidad para aprender.
+---
+p.276 - ≪Cuando los hechos cambian, yo cambio de opinion. ¿Usted que hace?≫
+---
+LA REGLA DE ORO - SÉ CURIOSO
+p.280 - Nullius in verba. NO debemos confiar a ciegas, sin hacer preguntas.
+---
+p.281 - La filósofa Onora O'Neil declaró en una ocasión: ≪La confianza nace más de una indagación activa que de una aceptación ciega. Tiene razón. Si queremos poder confiar en el mundo que nos rodea, debemos mostrar interés y hacer algunas preguntas básicas≫.
+---
+p.291 - Lo falso es interesante, pero no tanto como lo verdadero.
+---
+p.293 - Como dice el refrán: ≪Solo los burros se aburren≫. El mundo es mucho más interesante si nos interesamos en él de una manera activa.
+...
+≪La cura del aburrimiento es la curiosidad≫, dice otro refrán.
+...
+≪No hay cura para la curiosidad.≫ Es así: cuando empezamos a atisbar lo que hay bajo la superficie de las cosas, nos damos cuenta de las lagunas de nuestro conocimiento, y considerar cada pregunta como el camino que nos lleva a otra pregunta es la manera de crear el hábito de la curiosidad.
+...
+Si queremos comprender el mundo, debemos hacer preguntas: preguntas auténticas, con la mente abierta. Y una vez que empecemos a preguntar, quizá nos parezca deliciosamente difícil parar.
+
+
+¡!
+¿?
+≪≫
+≪¿?≫
+≪¡!≫
