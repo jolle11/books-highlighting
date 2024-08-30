@@ -1,0 +1,93 @@
+RUIDO. UN FALLO EN EL JUICIO HUMANO.
+INTRODUCCIÓN - DOS CLASES DE ERROR
+p.15 - El sesgo es la estrella del espectáculo. El ruido es un actor de reparto que normalmente está fuera del escenario.
+---
+PRIMERA PARTE - BUSCANDO EL RUIDO
+2 - UN SISTEMA RUIDOSO
+p.44 - La mayoría de las organizaciones valoran más el consenso y la armonía que la disensión y el conflicto.
+---
+SEGUNDA PARTE - NUESTRA MENTE ES UN INSTRUMENTO DE MEDICIÓN
+p.55 - El juicio puede entonces describirse como ≪medición en la que el instrumento es una mente humana≫. En la noción de ≪medición≫ va implícito el objetivo de la exactitud (acercarse a la verdad y minimizar el error). El objetivo del juicio no es impresionar ni tomar partido ni persuadir. Es importante señalar que el concepto de ≪juicio≫, tal y como aquí lo usamos, está tomado de la literatura psicológica técnica y es un concepto mucho más limitado que el de esa palabra en el lenguaje común. ≪Juzgar≫ no es sinónimo de ≪pensar≫, y ≪hacer juicios acertados≫ no es sinónimo de ≪tener buen juicio≫.
+---
+5 - LA MEDICIÓN DEL ERROR
+p.71 - ...en todo tipo de juicios profesionales, siempre que el objetivo sea acertar, ≪el sesgo y el ruido juegan el mismo papel en el cálculo del error global≫.
+---
+6 - EL ANÁLISIS DEL RUIDO
+p.94 - En resumen, hemos hablado de varios tipos de ruido. El ≪ruido del sistema≫ es una variabilidad no deseada en los juicios de un mismo caso por parte de varios individuos. Hemos identificado sus dos componentes principales, que pueden separarse cuando los mismos individuos evalúan varios casos:
+	- El ≪ruido de nivel≫ es variabilidad en el nivel medio de los juicios de los distintos jueces.
+	- El ≪ruido de patrón≫ es variabilidad de las respuestas de los jueces a casos concretos.
+En el presente estudio, las cantidades de ruido de nivel y de ruido de patrón erran casi iguales. Sin embargo, el componente que identificamos como ruido de patrón contiene sin duda algo de ≪ruido de ocasión≫, que puede tratarse como un error aleatorio.
+---
+7 - RUIDO DE OCASIÓN
+p.101 - Hay al menos una fuente de ruido de ocasión que todos hemos notado: el estado de ánimo. Todos hemos experimentado cómo nuestros propios juicios pueden depender de cómo nos sintamos (y, desde luego, somos conscientes de que los juicios de los demás también varían según su estado de ánimo).
+---
+p.102 - Pero el estado anímico tiene otro efecto más sorprendente: también cambia la ≪forma≫ de pensar.
+...
+Por otro lado, un buen estado de ánimo nos hace más propensos a aceptar nuestras primeras impresiones como verdaderas sin cuestionarlas.
+---
+p.104 - Entre los factores externos que no deberían influir en los juicios profesionales, pero que lo hacen, hay dos sospechosos principales: el estrés y el cansancio.
+---
+p.108 - ...la variabilidad de la eficacia del cerebro de un momento a otro no se debe a influencias externas, como la meteorología o una distracción, sino que es una característica del propio funcionamiento de nuestro cerebro.
+---
+8 - CÓMO LOS GRUPOS AMPLIFICAN EL RUIDO
+p.114 - Hemos hablado de la sabiduría de la multitud: si a un grupo numeroso de personas se le hace una pregunta, hay muchas posibilidades de que la respuesta media se acerque mucho al objetivo.
+...
+Como dicen los autores, el problema son las influencias sociales, porque reducen ≪la diversidad del grupo sin disminuir el error colectivo≫. La ironía es que, aunque las múltiples opiniones independientes, debidamente sumadas, pueden ser sorprendentemente acertadas, solo un poco de influencia social puede conformar una especia de rebaño que socava la sabiduría de la multitud.
+---
+p.117 - La información no es, por supuesto, la única razón por la que los miembros del grupo influyen unos en otros. Las presiones sociales también son importantes.
+---
+p.118 - ...la ≪polarización de grupo≫. La idea básica es que, cuando las personas hablan entre sí, suelen terminar en un punto más extremo en la línea de sus primeras inclinaciones.
+---
+TERCERA PARTE - EL RUIDO EN LOS JUICIOS PREDICTIVOS
+11 - IGNORANCIA OBJETIVA
+p.157 - Tanto la incertidumbre irremediable (lo que no es posible saber) como la información imperfecta (lo que se podría saber, pero no se sabe) impiden la predicción perfecta.
+---
+p.158 - El exceso de confianza es uno de los sesgos cognitivos mejor documentados. En particular, los juicios sobre la propia capacidad de hacer predicciones precisas, aun a partir de información limitada, son excesivamente confiados. Lo que dijimos del ruido en los juicios predictivos puede también decirse de la ignorancia objetiva: dondequiera que haya predicción, hay ignorancia, y más de la que se piensa.
+---
+p.159 - En consecuencia, la ignorancia objetiva se acumula continuamente cuanto más se mira hacia el futuro.
+---
+p.162 - Hemos observado que la gente suele confundir su sensación subjetiva de confianza con una indicación de validez predictiva.
+---
+12 - EL VALLE DE LO NORMAL
+p.170 - Sin embargo, debemos recordar que, si bien la correlación no implica causalidad, esta ≪sí≫ implica correlación.
+...
+Donde hay causalidad, hay correlación. De ello se desprende que, cuando hay causalidad, deberíamos ser capaces de predecir, y la correlación -la exactitud de esta predicción- es una medición del grado de causalidad que entendemos.
+...
+La ignorancia objetiva no solo pone un techo a nuestras predicciones, sino también a nuestra comprensión.
+---
+p.175 - El pensamiento causal nos ayuda a dar sentido a un mundo que es mucho menos predecible de lo que creemos. También explica por qué vemos el mundo como mucho más predecible de lo que realmente es. En el valle de lo normal no hay sorpresas ni inconsistencias. El futuro parece tan predecible como el pasado. Y el ruido ni se oye ni se ve.
+---
+CUARTA PARTE - CÓMO SE GENERA EL RUIDO
+13 - HEURÍSTICAS, SESGOS Y RUIDO
+p.185 - Añadir detalles a una descripción solo puede hacerla menos probable, aunque puede hacerla más representativa, como el presente caso.
+---
+p.190 - Un ejemplo más sutil de un sesgo de conclusión es el ≪efecto de anclaje≫, que es el efecto que un número arbitrario produce en personas que deben hacer un juicio cuantitativo.
+---
+p.195 - Tanto el sesgo como el ruido generan errores, lo que indica que todo lo que reduzca los sesgos psicológicos mejorará el juicio.
+---
+14 - LA OPERACIÓN DE EMPAREJAMIENTO.
+p.198 - Las pistas contradictorias hacen más difícil tener una sensación de coherencia y encontrar un juicio que sea satisfactorio. La presencia de pistas conflictivas caracteriza a los juicios complejos, en los que esperamos encontrar mucho ruido.
+---
+p.199 - Las personas tienen una notable capacidad intuitiva para emparejar intensidades entre magnitudes no relacionadas mediante la asignación de una escala de intensidad a otra.
+---
+17 - LAS FUENTES DE RUIDO
+p.240 - El ruido es sobre todo un subproducto de nuestra singularidad, de nuestra ≪personalidad juzgadora≫.
+---
+p.241 - Un sesgo psicológico es una explicación causal legítima de un error de juicio en el caso de que el sesgo se hubiera predicho de antemano o se hubiera detectado en tiempo real.
+---
+p.242 - Causalmente, el ruido no está en ninguna parte; estadísticamente, está en todas.
+...
+Las causas son naturales; la estadística es difícil.
+---
+QUINTA PARTE - MEJORAR LOS JUICIOS
+18 - MEJORES JUZGADORES PARA MEJORES JUICIOS
+p.251 - Los buenos juicios dependen de lo que se sabe, de lo bien que se piensa y de ≪cómo≫ se piensa.
+---
+21 - SELECCIÓN Y SUMA EN LOS PRONÓSTICOS
+p.287 - Los analistas de los pronósticos -de cuándo estos fallan y por qué- distinguen  claramente entre sesgo y ruido (tambión llamados ≪falta de coherencia≫ o ≪falta de fiabilidad≫).
+
+¡!
+¿?
+≪≫
+≪¿?≫
+≪¡!≫
